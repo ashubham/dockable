@@ -1,0 +1,2 @@
+# dockable
+Awesome dockable panels
